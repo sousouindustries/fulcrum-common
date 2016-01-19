@@ -1,0 +1,3 @@
+etc/fulcrum
+var/lib/fulcrum
+var/run/fulcrum
